@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "esp_netif.h": "c",
+        "esp_netif_types.h": "c",
+        "task.h": "c",
+        "freertos.h": "c"
+    }
+}

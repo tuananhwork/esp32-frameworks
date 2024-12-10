@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:IDF_PATH}/components/**",
+                "${env:IDF_PATH}/components/esp_netif/include",
+                "${env:IDF_PATH}/components/freertos/FreeRTOS-Kernel/include"
+            ]
+        }
+    ],
+    "version": 4
+} 

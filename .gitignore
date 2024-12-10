@@ -1,0 +1,4 @@
+build/
+**/build/
+
+esp-idf-v5.1.5/
